@@ -1,3 +1,6 @@
 [submodule "TechnoMatrixCore"]
 	path = TechnoMatrixCore
 	url = https://github.com/NilArea/TmCore.git
+[submodule "Registrate"]
+	path = Registrate
+	url = https://github.com/NilArea/Registrate.git
