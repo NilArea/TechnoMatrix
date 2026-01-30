@@ -1,3 +1,7 @@
 allprojects {
     group = project.group_id
 }
+
+tasks.named('wrapper', Wrapper).configure {
+    distributionType = Wrapper.DistributionType.BIN
+}

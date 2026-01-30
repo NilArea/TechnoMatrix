@@ -1,0 +1,3 @@
+[submodule "TechnoMatrixCore"]
+	path = TechnoMatrixCore
+	url = https://github.com/NilArea/TmCore.git
